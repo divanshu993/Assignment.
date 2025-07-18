@@ -1,0 +1,2 @@
+def greet(div):
+    print(f"Hello, {div}!")
