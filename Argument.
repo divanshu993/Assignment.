@@ -1,0 +1,5 @@
+def my_function(*students):
+    print("Best student of class is"+students[0])
+    my_function("div", "suhbh","ram")
+    
+        
